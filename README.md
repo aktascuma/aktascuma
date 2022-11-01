@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cuma
 - 👀 I’m interested in Mobile Application
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, C++, OOP, Pyhton
 
 
 <!---
